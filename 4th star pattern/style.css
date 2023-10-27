@@ -1,0 +1,20 @@
+#userInput{
+    width: 25%;
+  }
+  .btnRapper{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%,-50%);
+  }
+  .innerRapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+  .container{
+    position: absolute;
+    left: 45%;
+    top: 50%;
+  }
